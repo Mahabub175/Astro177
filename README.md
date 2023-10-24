@@ -1,10 +1,11 @@
-<h1 align="center"># _Hey There, I'm_ `Mahabub Ahmed`</h1>
-<h3 align="center">A passionate `Full-stack Developer`</h3>
+#_Hey There, I'm_ `Mahabub Ahmed`
+A passionate `Full-stack Developer`
 
 
-- 📫 How to reach me :  [My Resume]([https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing](https://drive.google.com/file/d/1mPTgLk00YEfKOAqL5xaw368dhHroO-_9/view?usp=sharing))  
-[Email: mahabub.ahmed175@gmail.com](mailto:mahabub.ahmed175@gmail.com)  
-[Linked In](https://www.linkedin.com/in/mahabub-ahmed-683490278/)
+- 📫 How to reach me :
+* [My Resume]((https://drive.google.com/file/d/1mPTgLk00YEfKOAqL5xaw368dhHroO-_9/view?usp=sharing))  
+* [Email: mahabub.ahmed175@gmail.com](mailto:mahabub.ahmed175@gmail.com)  
+* [Linked In](https://www.linkedin.com/in/mahabub-ahmed-683490278/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
