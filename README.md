@@ -1,7 +1,7 @@
-Hey There, I'm <h2>`Mahabub Ahmed`</h2>
+Hey There, I'm `Mahabub Ahmed`
 <br>
 <br>
-A passionate <h3>`Full-stack Developer`<h3>
+A passionate `Full-stack Developer`
 
 
 - 📫 How to reach me :
